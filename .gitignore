@@ -1,0 +1,9 @@
+_refs/
+SECTION2.md
+__pycache__/
+.env
+*.pyc
+*.pkl
+embed_checkpoint*
+logs/*
+!logs/.gitkeep
